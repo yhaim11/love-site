@@ -125,7 +125,7 @@ footer{
     background-image: url(./back.jpg);
     background-size: cover;
     width: auto;
-    height:450px;
+    height: 450px;
     
 }
 .text {
@@ -135,4 +135,132 @@ background-color: rgb(222, 255, 179);
 .phone{
     border-radius: 10px;
     background-color: rgb(222, 255, 179);
+}
+.path{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 350px;
+    border-radius: 20px;
+}
+.ped{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 250px;
+    border-radius: 20px;
+} 
+.ul1{
+    background-color: rgb(68, 241, 204);
+    border-radius: 6px;
+}
+.p1{
+    border-style: dashed dotted solid double;
+    border-radius: 6px;
+    background-color: rgb(255, 182, 253);
+}
+.complex{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 250px;
+    border-radius: 20px;
+}
+.p2{
+    
+    border-bottom: 5px solid red;
+    border-radius: 20px;
+    background-color: lightgray;
+
+}
+.friends{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 350px;
+}
+.p3{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.ul2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: rgb(250, 194, 120);
+    border-radius: 6px;
+}
+.advice{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 350px;
+    border-radius: 20px;
+}
+.ul3{
+    background-color: rgb(251, 145, 145);
+    border-radius: 10px;
+    
+    
+    
+}
+.b1{
+    background-color: rgb(245, 238, 138);
+    border-radius: 10px;
+}
+.p3{
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: rgb(244, 250, 236);
+}
+.ul4{
+    border-right: 15px solid red;
+    border-radius: 15px;
+}
+.p4{
+    border: 5px solid rgb(195, 243, 141);
+    border-radius: 20px;
+}
+.p5{
+    border: 5px solid rgb(246, 203, 62);
+    border-radius: 20px;
+}
+.scam{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 350px;
+    border-radius: 20px;
+}
+.side{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 350px;
+    border-radius: 20px;
+}
+.end{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    width: 150px;
+   
 }
