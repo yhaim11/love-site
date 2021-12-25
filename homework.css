@@ -125,6 +125,14 @@ footer{
     background-image: url(./back.jpg);
     background-size: cover;
     width: auto;
-    height:auto;
+    height:450px;
     
+}
+.text {
+border-radius: 10px;
+background-color: rgb(222, 255, 179);
+}
+.phone{
+    border-radius: 10px;
+    background-color: rgb(222, 255, 179);
 }
