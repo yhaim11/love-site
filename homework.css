@@ -131,10 +131,16 @@ footer{
 .text {
 border-radius: 10px;
 background-color: rgb(222, 255, 179);
+text-align: center;
+height: 25%;
+width: 25%;
 }
 .phone{
     border-radius: 10px;
     background-color: rgb(222, 255, 179);
+    text-align: center;
+    height: 25%;
+    width: 25%;
 }
 .path{
     
@@ -267,4 +273,14 @@ background-color: rgb(222, 255, 179);
 .ifrem{
     height: 350px;
     width: 350px;
+}
+.p6{
+    text-align: center;
+    border: 5px solid rgb(233, 222, 187);
+}
+.retorn{
+    text-align: center;
+    border: 5px solid rgb(0, 1, 2);
+    border-radius: 6px;
+    background-color: burlywood;
 }
