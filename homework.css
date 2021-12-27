@@ -138,7 +138,7 @@ width: 25%;
 .phone{
     border-radius: 10px;
     background-color: rgb(222, 255, 179);
-    text-align: center;
+    /* text-align: center; */
     height: 25%;
     width: 25%;
 }
@@ -284,3 +284,6 @@ width: 25%;
     border-radius: 6px;
     background-color: burlywood;
 }
+/* .div7{
+text-align: center;
+} */
