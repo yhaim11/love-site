@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 body{
     text-align: center;
 }
@@ -287,3 +288,22 @@ width: 25%;
 /* .div7{
 text-align: center;
 } */
+.nav{
+   
+   font-family: "Secular";
+   background-color: #e7eed2;
+    justify-content:space-between; 
+   border-radius: 50px;
+}
+.btn3{
+    background-color: rgb(167, 198, 255);
+    font-family: "Secular";
+    border-radius: 50px;
+    font-size:small;
+}
+.btn4{
+    background-color: rgb(245, 227, 129);
+    border-radius: 15px;
+    font-size: medium;
+    
+}
